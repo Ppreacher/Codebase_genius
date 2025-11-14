@@ -1,0 +1,10 @@
+jaclang
+python-dotenv
+gitpython
+tree-sitter
+tree-sitter-python
+markdown
+requests
+mtllm
+tree-sitter-languages
+streamlit

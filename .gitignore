@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+*.env
+
+# Session files
+*.session
+*.jbc
+__jac_gen__/
+
+# Temporary files
+/tmp/
+outputs/click/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
