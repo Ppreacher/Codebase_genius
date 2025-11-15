@@ -5,8 +5,7 @@ import from pathlib { Path }
 import os;
 import shutil;
 include utils;
-include code_analyzer;
-include doc_genie;
+
 
 # Initialize Groq AI model
 glob llm = Model(
